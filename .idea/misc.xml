@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/Kalmaapp-master/alpha4/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/drawable/dilog_bg.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/drawable/ic_whatsapp.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_contactus.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_eman.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_fifthkalma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_firstkalma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_fourthkalma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_kalma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_secondkalma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_sixthkalma.xml" value="0.33" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/activity_thirdkalma.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/contactus_dialoge.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WaseemShahzad/AndroidStudioProjects/KalmaNamaz/app/src/main/res/layout/termsandconditions.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

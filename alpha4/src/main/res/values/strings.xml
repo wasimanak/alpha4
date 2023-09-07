@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alpha4</string>
+    <string name="share_text">Download free Apps</string>
+    <string name="exit_alert">Press Back Again to Exit</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2024884640260057~6832890719</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="termsconditionslink">https://manaksoftwares.blogspot.com/</string>
+</resources>
